@@ -17,7 +17,6 @@ Hey everyone 👋 i'm soumya ghosh and i'm from msit 1st year
 
 ## Courses
 1. github
-2. abc
 
 ## Languages
 - Bengali
