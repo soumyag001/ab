@@ -1,5 +1,5 @@
 # indroduction💕 
-Hey everyone 👋 i'm soumya ghosh and i'm from msit 1st year
+Hey everyone 👋 i'm soumya ghosh and i'm from msit 3rd year
 ## 💠 Basic details
 **Name**- *Soumya Ghosh*
 
@@ -11,12 +11,16 @@ Hey everyone 👋 i'm soumya ghosh and i'm from msit 1st year
 ## My skills
 | S.No | Skills|
 |---|---|
-|1.| react|
-|2.| cricket|
-|3.| photography|
+|1.| java|
+|2.| c programming|
+|3.| dsa|
+
 
 ## Courses
-1. github
+1. dsa
+
+## activities
+1. cricket
 
 ## Languages
 - Bengali
